@@ -972,7 +972,7 @@
     }
 
     .text-slogan {
-        padding-left: 125px;
+        padding-left: 106px;
         margin-bottom: 25px;
     }
 }
@@ -1582,7 +1582,9 @@
         width: 100%;
     }
     #txt_top:after {
+    	width: 254px;
         left: 15px;
+        top: 193px;
     }
 
     .text-slogan {
@@ -1661,7 +1663,12 @@
     }
     .text-slogan {
         padding-left: 125px;
+        
     }
+    #txt_top:after {
+	    width: 284px;
+	    top: 190px;
+	}
 }
 
 @media only screen 
@@ -1688,6 +1695,9 @@
   and (min-width: 1201px) 
   and (max-width: 1399px) {
 	  	.text-slogan{
-	  		padding-left: 70px;
+	  		padding-left: 120px;
+	  	}
+	  	#txt_top:after{
+	  		top: 106px;
 	  	}
 }
