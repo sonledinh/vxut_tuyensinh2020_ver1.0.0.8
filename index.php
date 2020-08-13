@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" title="" href="css/animate.css">
     <link rel="stylesheet" type="text/css" title="" href="css/style-top.css">
     <link rel="stylesheet" type="text/css" title="" href="css/responsive-top.css">
-    <link href="https://www.vxut.edu.vn/uploads/configs/1554661313.png" rel="icon">
+    
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v7.0"></script>
 
     <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -23,7 +23,7 @@
     <div id="fb-root"></div>
     <section id="top"> 
         <div class="bg-fix">
-            <div class="person"><img src="images/top/sv_camket.png" class="img-fluid" alt=""></div>
+            <div class="person"><img class="wow fadeInLeft" data-wow-delay="2s" src="images/top/sv_camket.png" class="img-fluid" alt=""></div>
         </div>
         <div class="content">
             <div class="container">
@@ -31,10 +31,10 @@
                     <div class="logo text-center">
                         <h1>
                             <a href="">
-                                <img src="images/top/cicle.png">
+                                <img class=" wow zoomInLeft" data-wow-delay=".1s" src="images/top/cicle.png">
                                 <div class="htxt">
-                                    <p class="tit_vxut wow fadeInDown">VXUT</p>
-                                    <p class="ts_vxut wow fadeInUp">Tuyển sinh 2020</p>
+                                    <p class="tit_vxut wow fadeInDown" data-wow-delay=".9s">VXUT</p>
+                                    <p class="ts_vxut wow fadeInUp" data-wow-delay=".9s">Tuyển sinh 2020</p>
                                 </div>
                             </a>            
                         </h1> 
