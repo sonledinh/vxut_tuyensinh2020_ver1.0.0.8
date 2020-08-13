@@ -846,7 +846,7 @@
     body footer .content-footer .info-footer .container {
         padding: 20px 15px;
     }
-    #txt_top:after {width: 140px;height: 110px;background-size: contain;left: 0;}
+    #txt_top:after {width: 124px;height: 110px;background-size: cover;left: 0;}
     .hp_hb_bg {
         padding: 50px 0;
     }
@@ -1069,8 +1069,8 @@
     }
 
     #txt_top:after {
-        top: 50px;
-        left: 20px;
+        top: 136px;
+        left: 0px;
     }
 
 }
@@ -1700,4 +1700,10 @@
 	  	#txt_top:after{
 	  		top: 106px;
 	  	}
+}
+@media only screen and (max-width: 1440px) and (min-width: 1367px) {
+	.text-slogan {
+	    max-width: 992px;
+	    padding-left: 277px;
+	}
 }
