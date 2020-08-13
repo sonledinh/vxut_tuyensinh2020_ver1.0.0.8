@@ -846,7 +846,7 @@
     body footer .content-footer .info-footer .container {
         padding: 20px 15px;
     }
-    #txt_top:after {width: 140px;height: 200px;background-size: contain;left: 0;}
+    #txt_top:after {width: 140px;height: 110px;background-size: contain;left: 0;}
     .hp_hb_bg {
         padding: 50px 0;
     }
@@ -967,7 +967,7 @@
     }
     #txt_top:after {
         top: unset;
-        left: 15px;
+        left: 0px;
         bottom: 0;
     }
 
