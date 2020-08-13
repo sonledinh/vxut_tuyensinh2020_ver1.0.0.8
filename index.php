@@ -11,6 +11,7 @@
     <link rel="stylesheet" type="text/css" title="" href="css/animate.css">
     <link rel="stylesheet" type="text/css" title="" href="css/style-top.css">
     <link rel="stylesheet" type="text/css" title="" href="css/responsive-top.css">
+    <link href="https://www.vxut.edu.vn/uploads/configs/1554661313.png" rel="icon">
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v7.0"></script>
 
     <script type="text/javascript" src="js/jquery.min.js"></script>
