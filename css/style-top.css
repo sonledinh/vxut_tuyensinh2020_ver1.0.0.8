@@ -1377,4 +1377,5 @@ padding: 36px 15px; }
     transform: scaleX(-1);
     filter: FlipH;
     -ms-filter: "FlipH";
+	z-index: 1;
 }
